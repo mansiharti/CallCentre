@@ -7,6 +7,15 @@
 
 ---
 
+## Video Walkthrough & Demo
+
+https://github.com/mansiharti/CallCentre/raw/main/assets/demo.mp4
+
+> **Watch the full application walkthrough in action:**
+> - [Download / View Demo Video (assets/demo.mp4)](assets/demo.mp4)
+
+---
+
 ## 1. Project Overview
 
 **CallFlow** is a modern, high-density **Live Customer Support Command Centre** crafted for frontline call-centre agents, support leads, and customer experience specialists.
